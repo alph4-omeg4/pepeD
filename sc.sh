@@ -1,4 +1,12 @@
 date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-03-10T00:01' GIT_COMMITTER_DATE='2021-03-10T00:01' git commit -m 'Graph Data 2021-03-10T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-03-10T00:01' GIT_COMMITTER_DATE='2021-03-10T00:01' git commit -m 'Graph Data 2021-03-10T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-03-11T00:01' GIT_COMMITTER_DATE='2021-03-11T00:01' git commit -m 'Graph Data 2021-03-11T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-03-11T00:01' GIT_COMMITTER_DATE='2021-03-11T00:01' git commit -m 'Graph Data 2021-03-11T00:01'
+date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-03-17T00:01' GIT_COMMITTER_DATE='2021-03-17T00:01' git commit -m 'Graph Data 2021-03-17T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-03-17T00:01' GIT_COMMITTER_DATE='2021-03-17T00:01' git commit -m 'Graph Data 2021-03-17T00:01'
@@ -7,9 +15,9 @@ git add --all && GIT_AUTHOR_DATE='2021-03-18T00:01' GIT_COMMITTER_DATE='2021-03-
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-03-18T00:01' GIT_COMMITTER_DATE='2021-03-18T00:01' git commit -m 'Graph Data 2021-03-18T00:01'
 date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-03-24T00:01' GIT_COMMITTER_DATE='2021-03-24T00:01' git commit -m 'Graph Data 2021-03-24T00:01'
+git add --all && GIT_AUTHOR_DATE='2021-03-19T00:01' GIT_COMMITTER_DATE='2021-03-19T00:01' git commit -m 'Graph Data 2021-03-19T00:01'
 date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-03-24T00:01' GIT_COMMITTER_DATE='2021-03-24T00:01' git commit -m 'Graph Data 2021-03-24T00:01'
+git add --all && GIT_AUTHOR_DATE='2021-03-19T00:01' GIT_COMMITTER_DATE='2021-03-19T00:01' git commit -m 'Graph Data 2021-03-19T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-03-25T00:01' GIT_COMMITTER_DATE='2021-03-25T00:01' git commit -m 'Graph Data 2021-03-25T00:01'
 date --rfc-3339='ns' > file.txt
@@ -23,6 +31,18 @@ git add --all && GIT_AUTHOR_DATE='2021-04-01T00:01' GIT_COMMITTER_DATE='2021-04-
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-01T00:01' GIT_COMMITTER_DATE='2021-04-01T00:01' git commit -m 'Graph Data 2021-04-01T00:01'
 date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-01T00:01' GIT_COMMITTER_DATE='2021-04-01T00:01' git commit -m 'Graph Data 2021-04-01T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-01T00:01' GIT_COMMITTER_DATE='2021-04-01T00:01' git commit -m 'Graph Data 2021-04-01T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-01T00:01' GIT_COMMITTER_DATE='2021-04-01T00:01' git commit -m 'Graph Data 2021-04-01T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-02T00:01' GIT_COMMITTER_DATE='2021-04-02T00:01' git commit -m 'Graph Data 2021-04-02T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-02T00:01' GIT_COMMITTER_DATE='2021-04-02T00:01' git commit -m 'Graph Data 2021-04-02T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-02T00:01' GIT_COMMITTER_DATE='2021-04-02T00:01' git commit -m 'Graph Data 2021-04-02T00:01'
+date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-02T00:01' GIT_COMMITTER_DATE='2021-04-02T00:01' git commit -m 'Graph Data 2021-04-02T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-02T00:01' GIT_COMMITTER_DATE='2021-04-02T00:01' git commit -m 'Graph Data 2021-04-02T00:01'
@@ -47,6 +67,14 @@ git add --all && GIT_AUTHOR_DATE='2021-04-09T00:01' GIT_COMMITTER_DATE='2021-04-
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-09T00:01' GIT_COMMITTER_DATE='2021-04-09T00:01' git commit -m 'Graph Data 2021-04-09T00:01'
 date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-14T00:01' GIT_COMMITTER_DATE='2021-04-14T00:01' git commit -m 'Graph Data 2021-04-14T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-14T00:01' GIT_COMMITTER_DATE='2021-04-14T00:01' git commit -m 'Graph Data 2021-04-14T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-15T00:01' GIT_COMMITTER_DATE='2021-04-15T00:01' git commit -m 'Graph Data 2021-04-15T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-15T00:01' GIT_COMMITTER_DATE='2021-04-15T00:01' git commit -m 'Graph Data 2021-04-15T00:01'
+date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-15T00:01' GIT_COMMITTER_DATE='2021-04-15T00:01' git commit -m 'Graph Data 2021-04-15T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-15T00:01' GIT_COMMITTER_DATE='2021-04-15T00:01' git commit -m 'Graph Data 2021-04-15T00:01'
@@ -66,6 +94,24 @@ date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-16T00:01' GIT_COMMITTER_DATE='2021-04-16T00:01' git commit -m 'Graph Data 2021-04-16T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-16T00:01' GIT_COMMITTER_DATE='2021-04-16T00:01' git commit -m 'Graph Data 2021-04-16T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-16T00:01' GIT_COMMITTER_DATE='2021-04-16T00:01' git commit -m 'Graph Data 2021-04-16T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-16T00:01' GIT_COMMITTER_DATE='2021-04-16T00:01' git commit -m 'Graph Data 2021-04-16T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-17T00:01' GIT_COMMITTER_DATE='2021-04-17T00:01' git commit -m 'Graph Data 2021-04-17T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-17T00:01' GIT_COMMITTER_DATE='2021-04-17T00:01' git commit -m 'Graph Data 2021-04-17T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-17T00:01' GIT_COMMITTER_DATE='2021-04-17T00:01' git commit -m 'Graph Data 2021-04-17T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-17T00:01' GIT_COMMITTER_DATE='2021-04-17T00:01' git commit -m 'Graph Data 2021-04-17T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-17T00:01' GIT_COMMITTER_DATE='2021-04-17T00:01' git commit -m 'Graph Data 2021-04-17T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-17T00:01' GIT_COMMITTER_DATE='2021-04-17T00:01' git commit -m 'Graph Data 2021-04-17T00:01'
+date --rfc-3339='ns' > file.txt
+git add --all && GIT_AUTHOR_DATE='2021-04-17T00:01' GIT_COMMITTER_DATE='2021-04-17T00:01' git commit -m 'Graph Data 2021-04-17T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-20T00:01' GIT_COMMITTER_DATE='2021-04-20T00:01' git commit -m 'Graph Data 2021-04-20T00:01'
 date --rfc-3339='ns' > file.txt
@@ -103,32 +149,6 @@ git add --all && GIT_AUTHOR_DATE='2021-04-23T00:01' GIT_COMMITTER_DATE='2021-04-
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-23T00:01' GIT_COMMITTER_DATE='2021-04-23T00:01' git commit -m 'Graph Data 2021-04-23T00:01'
 date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-23T00:01' GIT_COMMITTER_DATE='2021-04-23T00:01' git commit -m 'Graph Data 2021-04-23T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-23T00:01' GIT_COMMITTER_DATE='2021-04-23T00:01' git commit -m 'Graph Data 2021-04-23T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-23T00:01' GIT_COMMITTER_DATE='2021-04-23T00:01' git commit -m 'Graph Data 2021-04-23T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-24T00:01' GIT_COMMITTER_DATE='2021-04-24T00:01' git commit -m 'Graph Data 2021-04-24T00:01'
-date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-27T00:01' GIT_COMMITTER_DATE='2021-04-27T00:01' git commit -m 'Graph Data 2021-04-27T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-27T00:01' GIT_COMMITTER_DATE='2021-04-27T00:01' git commit -m 'Graph Data 2021-04-27T00:01'
@@ -150,12 +170,6 @@ date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-29T00:01' GIT_COMMITTER_DATE='2021-04-29T00:01' git commit -m 'Graph Data 2021-04-29T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-29T00:01' GIT_COMMITTER_DATE='2021-04-29T00:01' git commit -m 'Graph Data 2021-04-29T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-30T00:01' GIT_COMMITTER_DATE='2021-04-30T00:01' git commit -m 'Graph Data 2021-04-30T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-30T00:01' GIT_COMMITTER_DATE='2021-04-30T00:01' git commit -m 'Graph Data 2021-04-30T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-04-30T00:01' GIT_COMMITTER_DATE='2021-04-30T00:01' git commit -m 'Graph Data 2021-04-30T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-04-30T00:01' GIT_COMMITTER_DATE='2021-04-30T00:01' git commit -m 'Graph Data 2021-04-30T00:01'
 date --rfc-3339='ns' > file.txt
@@ -207,12 +221,6 @@ git add --all && GIT_AUTHOR_DATE='2021-05-07T00:01' GIT_COMMITTER_DATE='2021-05-
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-07T00:01' GIT_COMMITTER_DATE='2021-05-07T00:01' git commit -m 'Graph Data 2021-05-07T00:01'
 date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-07T00:01' GIT_COMMITTER_DATE='2021-05-07T00:01' git commit -m 'Graph Data 2021-05-07T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-07T00:01' GIT_COMMITTER_DATE='2021-05-07T00:01' git commit -m 'Graph Data 2021-05-07T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-07T00:01' GIT_COMMITTER_DATE='2021-05-07T00:01' git commit -m 'Graph Data 2021-05-07T00:01'
-date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-09T00:01' GIT_COMMITTER_DATE='2021-05-09T00:01' git commit -m 'Graph Data 2021-05-09T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-09T00:01' GIT_COMMITTER_DATE='2021-05-09T00:01' git commit -m 'Graph Data 2021-05-09T00:01'
@@ -226,18 +234,6 @@ date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-09T00:01' GIT_COMMITTER_DATE='2021-05-09T00:01' git commit -m 'Graph Data 2021-05-09T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-09T00:01' GIT_COMMITTER_DATE='2021-05-09T00:01' git commit -m 'Graph Data 2021-05-09T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-09T00:01' GIT_COMMITTER_DATE='2021-05-09T00:01' git commit -m 'Graph Data 2021-05-09T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-09T00:01' GIT_COMMITTER_DATE='2021-05-09T00:01' git commit -m 'Graph Data 2021-05-09T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-09T00:01' GIT_COMMITTER_DATE='2021-05-09T00:01' git commit -m 'Graph Data 2021-05-09T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-10T00:01' GIT_COMMITTER_DATE='2021-05-10T00:01' git commit -m 'Graph Data 2021-05-10T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-10T00:01' GIT_COMMITTER_DATE='2021-05-10T00:01' git commit -m 'Graph Data 2021-05-10T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-10T00:01' GIT_COMMITTER_DATE='2021-05-10T00:01' git commit -m 'Graph Data 2021-05-10T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-10T00:01' GIT_COMMITTER_DATE='2021-05-10T00:01' git commit -m 'Graph Data 2021-05-10T00:01'
 date --rfc-3339='ns' > file.txt
@@ -285,12 +281,6 @@ git add --all && GIT_AUTHOR_DATE='2021-05-14T00:01' GIT_COMMITTER_DATE='2021-05-
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-14T00:01' GIT_COMMITTER_DATE='2021-05-14T00:01' git commit -m 'Graph Data 2021-05-14T00:01'
 date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-14T00:01' GIT_COMMITTER_DATE='2021-05-14T00:01' git commit -m 'Graph Data 2021-05-14T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-14T00:01' GIT_COMMITTER_DATE='2021-05-14T00:01' git commit -m 'Graph Data 2021-05-14T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-14T00:01' GIT_COMMITTER_DATE='2021-05-14T00:01' git commit -m 'Graph Data 2021-05-14T00:01'
-date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-15T00:01' GIT_COMMITTER_DATE='2021-05-15T00:01' git commit -m 'Graph Data 2021-05-15T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-15T00:01' GIT_COMMITTER_DATE='2021-05-15T00:01' git commit -m 'Graph Data 2021-05-15T00:01'
@@ -304,18 +294,6 @@ date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-15T00:01' GIT_COMMITTER_DATE='2021-05-15T00:01' git commit -m 'Graph Data 2021-05-15T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-15T00:01' GIT_COMMITTER_DATE='2021-05-15T00:01' git commit -m 'Graph Data 2021-05-15T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-15T00:01' GIT_COMMITTER_DATE='2021-05-15T00:01' git commit -m 'Graph Data 2021-05-15T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-15T00:01' GIT_COMMITTER_DATE='2021-05-15T00:01' git commit -m 'Graph Data 2021-05-15T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-15T00:01' GIT_COMMITTER_DATE='2021-05-15T00:01' git commit -m 'Graph Data 2021-05-15T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-16T00:01' GIT_COMMITTER_DATE='2021-05-16T00:01' git commit -m 'Graph Data 2021-05-16T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-16T00:01' GIT_COMMITTER_DATE='2021-05-16T00:01' git commit -m 'Graph Data 2021-05-16T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-16T00:01' GIT_COMMITTER_DATE='2021-05-16T00:01' git commit -m 'Graph Data 2021-05-16T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-16T00:01' GIT_COMMITTER_DATE='2021-05-16T00:01' git commit -m 'Graph Data 2021-05-16T00:01'
 date --rfc-3339='ns' > file.txt
@@ -401,18 +379,6 @@ git add --all && GIT_AUTHOR_DATE='2021-05-27T00:01' GIT_COMMITTER_DATE='2021-05-
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-27T00:01' GIT_COMMITTER_DATE='2021-05-27T00:01' git commit -m 'Graph Data 2021-05-27T00:01'
 date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-27T00:01' GIT_COMMITTER_DATE='2021-05-27T00:01' git commit -m 'Graph Data 2021-05-27T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-27T00:01' GIT_COMMITTER_DATE='2021-05-27T00:01' git commit -m 'Graph Data 2021-05-27T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-27T00:01' GIT_COMMITTER_DATE='2021-05-27T00:01' git commit -m 'Graph Data 2021-05-27T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-30T00:01' GIT_COMMITTER_DATE='2021-05-30T00:01' git commit -m 'Graph Data 2021-05-30T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-30T00:01' GIT_COMMITTER_DATE='2021-05-30T00:01' git commit -m 'Graph Data 2021-05-30T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-05-30T00:01' GIT_COMMITTER_DATE='2021-05-30T00:01' git commit -m 'Graph Data 2021-05-30T00:01'
-date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-30T00:01' GIT_COMMITTER_DATE='2021-05-30T00:01' git commit -m 'Graph Data 2021-05-30T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-05-30T00:01' GIT_COMMITTER_DATE='2021-05-30T00:01' git commit -m 'Graph Data 2021-05-30T00:01'
@@ -484,18 +450,6 @@ date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-06-06T00:01' GIT_COMMITTER_DATE='2021-06-06T00:01' git commit -m 'Graph Data 2021-06-06T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-06-06T00:01' GIT_COMMITTER_DATE='2021-06-06T00:01' git commit -m 'Graph Data 2021-06-06T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-06-06T00:01' GIT_COMMITTER_DATE='2021-06-06T00:01' git commit -m 'Graph Data 2021-06-06T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-06-06T00:01' GIT_COMMITTER_DATE='2021-06-06T00:01' git commit -m 'Graph Data 2021-06-06T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-06-06T00:01' GIT_COMMITTER_DATE='2021-06-06T00:01' git commit -m 'Graph Data 2021-06-06T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-06-07T00:01' GIT_COMMITTER_DATE='2021-06-07T00:01' git commit -m 'Graph Data 2021-06-07T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-06-07T00:01' GIT_COMMITTER_DATE='2021-06-07T00:01' git commit -m 'Graph Data 2021-06-07T00:01'
-date --rfc-3339='ns' > file.txt
-git add --all && GIT_AUTHOR_DATE='2021-06-07T00:01' GIT_COMMITTER_DATE='2021-06-07T00:01' git commit -m 'Graph Data 2021-06-07T00:01'
 date --rfc-3339='ns' > file.txt
 git add --all && GIT_AUTHOR_DATE='2021-06-07T00:01' GIT_COMMITTER_DATE='2021-06-07T00:01' git commit -m 'Graph Data 2021-06-07T00:01'
 date --rfc-3339='ns' > file.txt
